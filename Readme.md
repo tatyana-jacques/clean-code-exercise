@@ -1,0 +1,1 @@
+<p> Clean code / refactoring exercise developed during Senai's course DEVinHouse (2023).</p>
